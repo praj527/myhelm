@@ -3,22 +3,22 @@ entries:
   my-chart-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-07-04T21:16:44.254771654+05:30"
+    created: "2022-08-11T01:47:08.595114729+05:30"
     description: A Helm chart for Kubernetes
     digest: e1a859fb81bb25afa23c3b8c57de2335c5e34e3e6b9eebf42db2abeab07953d2
     name: my-chart-test
     type: application
     urls:
-    - https://github.com/praj527/myhelm/my-chart-test-0.1.1.tgz
+    - https://praj527.github.io/myhelm/my-chart-test-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-07-04T21:16:44.254380039+05:30"
+    created: "2022-08-11T01:47:08.594712909+05:30"
     description: A Helm chart for Kubernetes
     digest: 7f7496ee9f1586b0831afb1b471ffd9c5781df1255240828127c50a3e7449242
     name: my-chart-test
     type: application
     urls:
-    - https://github.com/praj527/myhelm/my-chart-test-0.1.0.tgz
+    - https://praj527.github.io/myhelm/my-chart-test-0.1.0.tgz
     version: 0.1.0
-generated: "2022-07-04T21:16:44.253890328+05:30"
+generated: "2022-08-11T01:47:08.594142649+05:30"
